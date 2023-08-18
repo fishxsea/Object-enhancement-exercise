@@ -47,7 +47,7 @@ const instructor = {
 //   }
 // }
 
-var teacher = {
+const teacher = {
     firstName: "Colt",
     sayHi(){
       return "Hi!";
