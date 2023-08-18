@@ -27,7 +27,7 @@ console.log(createInstructor('aaron', 'clayton'))
 // }
 // instructor[favoriteNumber] = "That is my favorite!"
 
-const favoriteNumber = 42;
+let favoriteNumber = 42;
 const instructor = {
     firstName: 'Colt',
     [favoriteNumber]: 'That is my favorite!'
